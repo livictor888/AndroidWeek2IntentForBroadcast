@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentForBroadcast</string>
+    <string name="enter_a_phone_number">Enter a phone number</string>
+    <string name="make_phone_call">Make Phone Call</string>
+    <string name="enter_a_url">Enter a URL</string>
+    <string name="browse_url">Browse URL</string>
+</resources>
